@@ -1,3 +1,125 @@
+POST http://localhost:8081/actuator/bus-refresh
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8081/actuator/bus-refresh
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8081/bus/refresh
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-22T050421.404.json
+
+###
+
+POST http://localhost:8081/actuator/bus/refresh
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-22T050407.404.json
+
+###
+
+POST http://localhost:8081/actuator/refresh
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-22T050340.200.json
+
+###
+
+POST http://localhost:8081/bus/refresh
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-22T050316.404.json
+
+###
+
+POST http://localhost:8081/actuator/refresh
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8081/actuator/refresh
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-22T030616.200.json
+
+###
+
+POST http://localhost:8081/actuator/refresh
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-22T030603.200.json
+
+###
+
+POST http://localhost:8081/refresh
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-22T030509.404.json
+
+###
+
+POST http://localhost:8080/refresh
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-22T030501.404.json
+
+###
+
+POST http://localhost:8080/refresh
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-22T030358.404.json
+
+###
+
+POST http://localhost:8080/application/refresh
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-22T025956.404.json
+
+###
+
+POST http://localhost:8080/application/refresh
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-22T025955.404.json
+
+###
+
+POST http://localhost:8080/application/refresh
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-22T025953.404.json
+
+###
+
+POST http://localhost:8080/application/refresh
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-22T023152.404.json
+
+###
+
 POST http://localhost:8080/application/refresh
 Accept: */*
 Cache-Control: no-cache
